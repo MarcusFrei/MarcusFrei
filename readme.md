@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend student / dev from Russia 🇷🇺</h3>
 
-https://www.codewars.com/users/MarcusFrei/badges/large
+[![codewars](https://www.codewars.com/users/MarcusFrei/badges/large)](https://www.codewars.com/users/MarcusFrei)
